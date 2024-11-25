@@ -50,6 +50,9 @@ const Footer = () => {
           </ul>
 
         </div>
+        <div className="copyright mobile">
+            This Website is designed by GTCoding Ⓒ 2023
+           </div>
       </div>
 
     </div>
