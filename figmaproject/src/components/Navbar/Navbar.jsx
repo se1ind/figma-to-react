@@ -8,7 +8,7 @@ const Navbar = () => {
     <>
     <nav>
       <a href="#" className="logo">
-        Sound<span className="red">DZign</span>
+        Sound<span className="purple">DZign</span>
       </a>
       <ul>
         <li>

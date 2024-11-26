@@ -1,6 +1,6 @@
 :root{
     --dark-color:#181e1e;
-    --red-color:#e5566b;
+    --Cornflower:#6757fa;
     --purple-color:#a98af9;
     --pink-color:#f4826d;
 
@@ -40,7 +40,7 @@ section h2::after{
     position:absolute;
     width:80px;
     height:4px;
-    background: var(--red-color);
+    background: var(--Cornflower);
     left:0;
     bottom: -10px;
 }

@@ -18,7 +18,7 @@
 #topics .topics-list li::before{
     content:"";
     position:absolute;
-    background: var(--red-color);
+    background: var(--Cornflower);
     width:8px;
     height:8px;
     border-radius:50%;

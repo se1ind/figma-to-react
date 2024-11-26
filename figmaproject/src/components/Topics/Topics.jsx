@@ -5,7 +5,7 @@ import {frequencies,daw,vocalsProcessing,mixing,mixingConsole,mastering,bgElemen
 const Topics = () => {
   const [currentImage,setCurrentImage]=useState(frequencies);
   return (
-    <section id="topics" className="black">
+    <section id="topics" className="purple">
     <div className="wrapper">
       <h2>What will you learn?</h2>
       <div className="content-container"> 

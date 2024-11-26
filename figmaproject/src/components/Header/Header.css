@@ -1,6 +1,6 @@
 header{
     min-height: 100vh;
-    background: url("../../assets/hero-image.jpg");
+    background: url("../../assets/chips.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -32,7 +32,7 @@ header .cta .course-name::after{
     position:absolute;
     width:60px;
     height:4px;
-    background:var(--red-color);
+    background:var(--Cornflower);
     left:0;
     bottom:-10px;
 }
@@ -45,7 +45,7 @@ header .cta h1{
 }
 header .cta .demo-btn{
     border-radius:10px;
-    background: var(--red-color);
+    background: var(--Cornflower);
     color:#fff;
     padding:10px 32px;
     font-weight:800;
